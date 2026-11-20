@@ -11,10 +11,12 @@
 
 ## Installation
 
-1. Download the latest release from the [Releases page](https://github.com/PhilipsCodeHub/Rayforge_tabs_at_intersection/releases).
-2. In Rayforge, open the **Addon Manager** (usually found in the application menu or preferences).
-3. Click **“Install from file”** (or the equivalent option) and select the downloaded archive.
-4. Restart Rayforge if prompted.
+1. In Rayforge, open the **Settings Menu** (usually found in the application menu under **edit** and **settings**).
+2. In the **Settings Menu** click on the **Addons** button on the left side.
+3. On the right side (of the dialog) scroll down to the bottom and press the **Install New Addon..** button.
+4. In the new window press the button at the bottom named **Install from URL**.
+5. Provide the URL of this addon: "https://github.com/PhilipsCodeHub/Rayforge_tabs_at_intersection".
+6. Restart Rayforge.
 
 > **Compatibility:** This addon requires Rayforge **API version 16** or later. Check your Rayforge version in the *About* dialog if unsure.
 
