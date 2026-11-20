@@ -1,0 +1,11 @@
+name: tabs_at_intersection
+display_name: "tabs_at_intersection Addon"
+description: "This addon adds Tabs by processing geometry from a Tab Layer"
+version: 1.0.0
+url: https://github.com/PhilipsCodeHub/Rayforge_tabs_at_intersection
+api_version: 16
+author:
+  name: Philip
+provides:
+  backend: tabs_at_intersection.backend
+  frontend: tabs_at_intersection.frontend
